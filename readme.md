@@ -9,6 +9,7 @@
 `2`「得票率跟最終結果非常相近」的定義非常模糊。
 
 我們使用了 `pandas` 與 `sqlite3` 建立了資料庫，利用 `numpy` 進行概念驗證並以 `gradio` 做出成品。
+可以點選連結<https://huggingface.co/spaces/shihwei0808/taiwan_presidential_election_2024> 進行造訪。
 
 ## 如何重現 
 
